@@ -959,6 +959,42 @@ video {
 }
 
 @media (min-width: 769px) {
+  .vmd\:ml-\[1\] {
+    margin-left: 1;
+  }
+
+  .vmd\:ml-\[16\.2\] {
+    margin-left: 16.2;
+  }
+
+  .vmd\:ml-\[26\.2\] {
+    margin-left: 26.2;
+  }
+
+  .vmd\:ml-\[26\.2rem\] {
+    margin-left: 26.2rem;
+  }
+
+  .vmd\:ml-\[24\.2rem\] {
+    margin-left: 24.2rem;
+  }
+
+  .vmd\:ml-\[25\.2rem\] {
+    margin-left: 25.2rem;
+  }
+
+  .vmd\:ml-\[23\.2rem\] {
+    margin-left: 23.2rem;
+  }
+
+  .vmd\:ml-\[21\.2rem\] {
+    margin-left: 21.2rem;
+  }
+
+  .vmd\:ml-\[20\.2rem\] {
+    margin-left: 20.2rem;
+  }
+
   .vmd\:p-0 {
     padding: 0px;
   }
