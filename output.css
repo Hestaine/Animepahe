@@ -872,7 +872,7 @@ video {
   }
 }
 
-@media (min-width: 50px) {
+@media (min-width: 600px) {
   .sm\:absolute {
     position: absolute;
   }
