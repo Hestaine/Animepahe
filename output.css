@@ -768,7 +768,7 @@ video {
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
-@media (min-width: 370px) {
+@media (min-width: 350px) {
   .vsm\:absolute {
     position: absolute;
   }
